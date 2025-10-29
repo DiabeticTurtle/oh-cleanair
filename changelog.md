@@ -1,6 +1,14 @@
 # Space Ahead ✨ Changelog
 
-## v0.11.3 (Latest)
+## v0.11.4 (Latest) - Oct 29, 2025
+
+This is a monthly update release intended to keep the dependencies up-to-date, addressing any security issues and any user reported issues.
+
+### Updates
+
+- Dependency updates
+
+## v0.11.3 - Sept 19, 2025
 
 ### New
 

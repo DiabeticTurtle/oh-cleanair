@@ -46,7 +46,7 @@ View **Mumbai Stories** - [Samay Anand's Blog](https://djsiddz.github.io/samay-a
 1. [Create a new repo](https://github.com/new?template_name=space-ahead&template_owner=djsiddz) using this template.
 2. Clone to repo to your local computer using `git clone <your-repo-url>`. Then `cd <your-repo-name>`.
 3. Setup `pnpm` and use `pnpm install` and then `pnpm dev`.
-4. Use the `src/site.config.ts` file to setup the template to your liking.
+4. Use the `astro.config.mjs` and `src/site.config.ts` files to setup the template to your liking.
 5. Update any content on homepage (`src/pages/index.astro`), about (`src/pages/about.astro`), and contact (`src/pages/contact.astro`).
 6. Replace the template posts under (`src/content/blogs/*.md`) with your blog posts, using the same format, with the post metadata.
 7. Check the [Astro Deployment guide](https://docs.astro.build/en/guides/deploy/) to know specific steps on deploying this on your preferred provider platform.
